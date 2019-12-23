@@ -7,3 +7,7 @@ class Application < Sinatra::Base
   end
  
 end
+
+
+# Classes that inherit from Sinatra::Base and define HTTP
+# interface for our application are called Controllers
